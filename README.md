@@ -11,8 +11,12 @@ Jako IDE zalecam [CLion](https://www.jetbrains.com/clion/promo/?source=google&me
 
 ## instalacja wymaganych pakietów
 Przed instalacją wymaganych pakietów należy się upewnić, że wszystkie pobierane pakiety będą w najnowszej wersji:
-`sudo pacman -Syu`
+```
+sudo pacman -Syu
+```
 Następnie można zainstalować Pythona oraz potrzebne narzędzia:
-`sudo pacman -S base-devel python python-pip python-setuptools`
+```
+sudo pacman -S base-devel python python-pip python-setuptools
+```
 
 ## Pobranie repozytorium
