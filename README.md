@@ -1,5 +1,5 @@
 ### Oryginalny cel projektu nie został zrealizowany ze względu na ograniczony czas praktyk
-- **Pierwotny cel projektu:** osadzić [implementację ML-KEM napisaną w C90]((https://github.com/pq-code-package/mlkem-native/tree/main) w Pythonie, jako aplikację dokonującą wymiany kluczy między dwiema stronami przez sieć.
+- **Pierwotny cel projektu:** osadzić [implementację ML-KEM napisaną w C90](https://github.com/pq-code-package/mlkem-native/tree/main) w Pythonie, jako aplikację dokonującą wymiany kluczy między dwiema stronami przez sieć.
 - **Co udało się zrobić:** jest aplikacja napisana w Pythonie do komunikacji na zasadzie serwera i klienta, gdzie klient wysyła wiadomość, a serwer odsyła ją z powrotem jako potwierdzenie jej otrzymania. Jeśli klient wyśle liczbę, to serwer zwróci kwadrat danej liczby (funkcja napisana w C).
 
 # Instalacja 
